@@ -3,8 +3,8 @@ import Sugestao from "./Sugestao";
 export default function Sugestoes() {
 
     const sugestoes = [
-        {imagemUsuarioSugestao: "img/bad.vibes.memes.svg", nomeUsuarioSugestao: "bad.vibes.memes"},
-        {imagemUsuarioSugestao: "img/bad.vibes.memes.svg", nomeUsuarioSugestao: "bad.vibes.memes"},
+        {imagemUsuarioSugestao: "img/9gag.svg", nomeUsuarioSugestao: "programadorlegal"},
+        {imagemUsuarioSugestao: "img/barked.svg", nomeUsuarioSugestao: "babydog"},
         {imagemUsuarioSugestao: "img/bad.vibes.memes.svg", nomeUsuarioSugestao: "bad.vibes.memes"}
     ]
 

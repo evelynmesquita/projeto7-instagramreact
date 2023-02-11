@@ -3,7 +3,7 @@ import Post from "./Post"
 export default function Posts() {
 
     const posts = [
-        {imagemUsuarioPost: "img/meowed.svg", 
+        {imagemUsuarioPost: "img/9gag.svg", 
         usuarioPost: "picapauprogramador", 
         imagemPost: "img/meme1.jpg", 
         likesImagemPost: "img/respondeai.svg", 
@@ -17,7 +17,7 @@ export default function Posts() {
         likePost: "filomoderna", 
         likeNumero: 81.522},
 
-        {imagemUsuarioPost: "img/meowed.svg", 
+        {imagemUsuarioPost: "img/barked.svg", 
         usuarioPost: "meowed", 
         imagemPost: "img/gato-telefone.svg", 
         likesImagemPost: "img/smallcutecats.svg", 
